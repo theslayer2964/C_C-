@@ -1,0 +1,7 @@
+6
+lala meomeo,3,4,5
+mot hai ba,7,8,9
+ahihi haha,11,12,13
+hoang minhtri,55,1,-1
+nguyen chiquuocdang,66,-5,8
+lamduc cuong,32,-54,6

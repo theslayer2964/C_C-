@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1601360013 source:c:\users\sony vaio\desktop\vitcode\tudien\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<string>
+	<fstream>
+	<conio.h>
+
+1601360199 source:c:\users\sony vaio\desktop\vitcode\xoaoooo.cpp
+	<iostream>
+

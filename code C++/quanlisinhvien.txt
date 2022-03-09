@@ -1,0 +1,14 @@
+nguyen van a,1999,01/01/2001
+3
+toan-9
+li-7
+hoa-10
+hoang thi b,2000,02/02/2000
+2
+ki thuat lap trinh-7.5
+mang may tinh-6.5
+dong the loan,2001,03/03/3000
+3
+sinh li-4
+sinh li benh-3.5
+giai phau benh-5.5
